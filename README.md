@@ -31,8 +31,6 @@ Enhanced memory tool for **Open WebUI** that adds **categories + tags**, **batch
 2. Reload/restart Open WebUI so it detects the new tool.
 3. Enable the tool in the Open WebUI Tools UI (if your setup requires manual enabling).
 
-If you tell me your exact Open WebUI workspace path (Windows/Docker), I can add a precise “copy to this folder” example.
-
 ## Configuration (Valves)
 
 Inside the tool, settings live under `Tools.Valves`:
